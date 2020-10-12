@@ -2,7 +2,7 @@
 
 Desktop application for [Jitsi Meet] built with [Electron].
 
-![](screenshot.png)
+![](screenshot.png).
 
 ## Features
 
