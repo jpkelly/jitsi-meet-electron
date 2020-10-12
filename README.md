@@ -1,4 +1,4 @@
-# Jitsi Meet Electron
+# Jitsi Meet Electron (Vevomo)
 
 Desktop application for [Jitsi Meet] built with [Electron].
 
